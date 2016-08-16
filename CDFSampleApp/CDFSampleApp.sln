@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDFSampleApp", "CDFSampleApp_Ashish\CDFSampleApp.csproj", "{9FDD0FF8-7487-428F-8325-D247F2CD3923}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDFSampleApp", "CDFSampleApp\CDFSampleApp.csproj", "{9FDD0FF8-7487-428F-8325-D247F2CD3923}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tasks", "Tasks\Tasks.csproj", "{CEA8E664-3E8B-4188-808B-BA20B2BE278E}"
 EndProject
