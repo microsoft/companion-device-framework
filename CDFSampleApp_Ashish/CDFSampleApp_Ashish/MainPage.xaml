@@ -1,0 +1,23 @@
+﻿<Page
+    x:Class="CDFSampleApp_Ashish.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:CDFSampleApp_Ashish"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <StackPanel>
+            <ListBox x:Name="DeviceListBox" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="200"/>
+
+            <Button x:Name="RegisterDevice" Content="Step 1 Register Device" HorizontalAlignment="Left" VerticalAlignment="Top" Width="200" Click="RegisterDevice_Click"/>
+
+            <Button x:Name="RegisterBgTask" Content="Step 2 Register BGTask" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="200" Click="RegisterBgTask_Click"/>
+
+            <Button x:Name="UnregisterDevice" Content="Unregister Device" HorizontalAlignment="Left" VerticalAlignment="Top" Width="200" Click="UnregisterDevice_Click"/>
+
+            <!--<ListBox x:Name="InfoList" HorizontalAlignment="Left" Height="329" Margin="32,295,0,0" VerticalAlignment="Top" Width="764"/>-->
+        </StackPanel>
+    </Grid>
+</Page>
