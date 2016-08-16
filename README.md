@@ -12,15 +12,14 @@ This repo hosts Windows UWP sample code to illustrate the use of Companion Devic
 - Visual Studio 2015
 - [Windows Software Development Kit (SDK) for Windows 10] (https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk)
 
+## Requesting capabilities for Store Submissions of your CDF UWP App
+
+You are free to use the code sample to create your own CDF UWP app to unlock Windows PCs.  To submit your app to the Store, you would need permissions to use the secondaryAuthenticationFactor restricted capability.    For the same, please mail Companion Device Framework Onboarding <CDFOnboard@microsoft.com>.
+
 ## Feedback
 
 - File a bug in [GitHub Issues] (https://github.com/Microsoft/companion-device-framework/issues)
 - For requesting new features, please mail Companion Device Framework Onboarding <CDFOnboard@microsoft.com>.
-
-
-## Requesting capabilities for Store Submissions of your CDF UWP App
-
-You are free to use the code sample to create your own CDF UWP app to unlock Windows PCs.  To submit your app to the Store, you would need permissions to use the secondaryAuthenticationFactor restricted capability.    For the same, please mail Companion Device Framework Onboarding <CDFOnboard@microsoft.com>.
 
 ## Additional resources
 
