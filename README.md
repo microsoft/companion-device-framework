@@ -8,7 +8,7 @@ This repo hosts Windows UWP sample code to illustrate the use of Companion Devic
 
 ## Requirements
 
-- Windows 10 Anniversary Update Enterprise/Professional edition (Build 10.0.14393 or later)
+- Windows 10 Anniversary Update (Build 10.0.14393 or later)
 - Visual Studio 2015
 - [Windows Software Development Kit (SDK) for Windows 10] (https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk)
 
