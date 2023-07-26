@@ -10,7 +10,7 @@ This repo hosts Windows UWP sample code to illustrate the use of Companion Devic
 
 - Windows 10 Anniversary Update Enterprise/Professional edition (Build 10.0.14393 or later)
 - Visual Studio 2015
-- [Windows Software Development Kit (SDK) for Windows 10] (https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk)
+- [Windows Software Development Kit (SDK) for Windows 10](https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk)
 
 ## Requesting capabilities for Store Submissions of your CDF UWP App
 
@@ -18,10 +18,10 @@ You are free to use the code sample to create your own CDF UWP app to unlock Win
 
 ## Feedback
 
-- File a bug in [GitHub Issues] (https://github.com/Microsoft/companion-device-framework/issues)
+- File a bug in the [GitHub Issues](https://github.com/Microsoft/companion-device-framework/issues)
 - For requesting new features, please mail Companion Device Framework Onboarding <CDFOnboard@microsoft.com>.
 
 ## Additional resources
 
-- [Introduction] (https://msdn.microsoft.com/en-us/windows/uwp/security/companion-device-unlock) to Windows Hello Companion Device Framework
-- [Video preview] (https://channel9.msdn.com/events/build/2016/p491) of Windows Hello Companion Device Framework
+- [Introduction](https://msdn.microsoft.com/en-us/windows/uwp/security/companion-device-unlock) to Windows Hello Companion Device Framework
+- [Video preview](https://channel9.msdn.com/events/build/2016/p491) of Windows Hello Companion Device Framework
